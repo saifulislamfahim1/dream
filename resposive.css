@@ -1,0 +1,677 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+/* this is find start */
+#find #find1{
+    width: 50%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 25%;
+}
+#propertiesimg #propertiesimg2{
+    width: 25%;
+}
+#propertiesimg #propertiesimg3{
+    width: 25%;
+}
+#propertiesimg #propertiesimg4{
+    width: 25%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 25%;
+}
+#chose #chose2{
+    width: 25%;
+}
+#chose #chose3{
+    width: 25%;
+}
+#chose #chose4{
+    width: 25%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 33.3333333%;
+}
+#appartment #appartment2{
+    width: 33.3333333%;
+}
+#appartment #appartment3{
+    width: 33.3333333%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 40%;
+}
+#providing #providing2{
+    width: 15%;
+}
+#providing #providing3{
+    width: 15%;
+}
+#providing #providing4{
+    width: 15%;
+}
+#providing #providing5{
+    width: 15%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 25%;
+}
+#igm6 #igm62{
+    width: 25%;
+}
+#igm6 #igm63{
+    width: 25%;
+}
+#igm6 #igm64{
+    width: 25%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 33.3333333%;
+}
+#sell #sell2{
+    width: 33.3333333%;
+}
+#sell #sell3{
+    width: 33.3333333%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 30%;
+}
+#footer #footer2{
+    width: 30%;
+}
+#footer #footer3{
+    width: 40%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+/* this is find start */
+#find #find1{
+    width: 50%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 25%;
+}
+#propertiesimg #propertiesimg2{
+    width: 25%;
+}
+#propertiesimg #propertiesimg3{
+    width: 25%;
+}
+#propertiesimg #propertiesimg4{
+    width: 25%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 25%;
+}
+#chose #chose2{
+    width: 25%;
+}
+#chose #chose3{
+    width: 25%;
+}
+#chose #chose4{
+    width: 25%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 33.3333333%;
+}
+#appartment #appartment2{
+    width: 33.3333333%;
+}
+#appartment #appartment3{
+    width: 33.3333333%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 40%;
+}
+#providing #providing2{
+    width: 15%;
+}
+#providing #providing3{
+    width: 15%;
+}
+#providing #providing4{
+    width: 15%;
+}
+#providing #providing5{
+    width: 15%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 25%;
+}
+#igm6 #igm62{
+    width: 25%;
+}
+#igm6 #igm63{
+    width: 25%;
+}
+#igm6 #igm64{
+    width: 25%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 33.3333333%;
+}
+#sell #sell2{
+    width: 33.3333333%;
+}
+#sell #sell3{
+    width: 33.3333333%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 30%;
+}
+#footer #footer2{
+    width: 30%;
+}
+#footer #footer3{
+    width: 40%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+/* this is find start */
+#find #find1{
+    width: 50%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 25%;
+}
+#propertiesimg #propertiesimg2{
+    width: 25%;
+}
+#propertiesimg #propertiesimg3{
+    width: 25%;
+}
+#propertiesimg #propertiesimg4{
+    width: 25%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 25%;
+}
+#chose #chose2{
+    width: 25%;
+}
+#chose #chose3{
+    width: 25%;
+}
+#chose #chose4{
+    width: 25%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 33.3333333%;
+}
+#appartment #appartment2{
+    width: 33.3333333%;
+}
+#appartment #appartment3{
+    width: 33.3333333%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 40%;
+}
+#providing #providing2{
+    width: 15%;
+}
+#providing #providing3{
+    width: 15%;
+}
+#providing #providing4{
+    width: 15%;
+}
+#providing #providing5{
+    width: 15%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 25%;
+}
+#igm6 #igm62{
+    width: 25%;
+}
+#igm6 #igm63{
+    width: 25%;
+}
+#igm6 #igm64{
+    width: 25%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 33.3333333%;
+}
+#sell #sell2{
+    width: 33.3333333%;
+}
+#sell #sell3{
+    width: 33.3333333%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 30%;
+}
+#footer #footer2{
+    width: 30%;
+}
+#footer #footer3{
+    width: 40%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+/* this is find start */
+#find #find1{
+    width: 50%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 25%;
+}
+#propertiesimg #propertiesimg2{
+    width: 25%;
+}
+#propertiesimg #propertiesimg3{
+    width: 25%;
+}
+#propertiesimg #propertiesimg4{
+    width: 25%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 25%;
+}
+#chose #chose2{
+    width: 25%;
+}
+#chose #chose3{
+    width: 25%;
+}
+#chose #chose4{
+    width: 25%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 33.3333333%;
+}
+#appartment #appartment2{
+    width: 33.3333333%;
+}
+#appartment #appartment3{
+    width: 33.3333333%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 40%;
+}
+#providing #providing2{
+    width: 15%;
+}
+#providing #providing3{
+    width: 15%;
+}
+#providing #providing4{
+    width: 15%;
+}
+#providing #providing5{
+    width: 15%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 25%;
+}
+#igm6 #igm62{
+    width: 25%;
+}
+#igm6 #igm63{
+    width: 25%;
+}
+#igm6 #igm64{
+    width: 25%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 33.3333333%;
+}
+#sell #sell2{
+    width: 33.3333333%;
+}
+#sell #sell3{
+    width: 33.3333333%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 30%;
+}
+#footer #footer2{
+    width: 30%;
+}
+#footer #footer3{
+    width: 40%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+/* this is find start */
+#find #find1{
+    width: 100%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg2{
+    width: 100%;
+}
+#propertiesimg #propertiesimg3{
+    width: 100%;
+}
+#propertiesimg #propertiesimg4{
+    width: 100%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 100%;
+}
+#chose #chose2{
+    width: 100%;
+}
+#chose #chose3{
+    width: 100%;
+}
+#chose #chose4{
+    width: 100%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 100%;
+}
+#appartment #appartment2{
+    width: 100%;
+}
+#appartment #appartment3{
+    width: 100%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 100%;
+}
+#providing #providing2{
+    width: 100%;
+}
+#providing #providing3{
+    width: 100%;
+}
+#providing #providing4{
+    width: 100%;
+}
+#providing #providing5{
+    width: 100%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 100%;
+}
+#igm6 #igm62{
+    width: 100%;
+}
+#igm6 #igm63{
+    width: 100%;
+}
+#igm6 #igm64{
+    width: 100%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 100%;
+}
+#sell #sell2{
+    width: 100%;
+}
+#sell #sell3{
+    width: 100%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+/* this is find start */
+#find #find1{
+    width: 100%;
+}
+/* this is find end */
+/* this is Properties start */
+#properties1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg1{
+    width: 100%;
+}
+#propertiesimg #propertiesimg2{
+    width: 100%;
+}
+#propertiesimg #propertiesimg3{
+    width: 100%;
+}
+#propertiesimg #propertiesimg4{
+    width: 100%;
+}
+/* this is Properties end */
+/* this is Choose start */
+#choose #choose1{
+    width: 100%;
+}
+#chose #chose1{
+    width: 100%;
+}
+#chose #chose2{
+    width: 100%;
+}
+#chose #chose3{
+    width: 100%;
+}
+#chose #chose4{
+    width: 100%;
+}
+/* this is Choose end */
+/* this is Properties start */
+#appartment #appartment1{
+    width: 100%;
+}
+#appartment #appartment2{
+    width: 100%;
+}
+#appartment #appartment3{
+    width: 100%;
+}
+/* this is Properties end */
+/* this is Providing start */
+#providing #providing1{
+    width: 100%;
+}
+#providing #providing2{
+    width: 100%;
+}
+#providing #providing3{
+    width: 100%;
+}
+#providing #providing4{
+    width: 100%;
+}
+#providing #providing5{
+    width: 100%;
+}
+/* this is Providing end */
+/* this is Works start */
+#igm6 #igm61{
+    width: 100%;
+}
+#igm6 #igm62{
+    width: 100%;
+}
+#igm6 #igm63{
+    width: 100%;
+}
+#igm6 #igm64{
+    width: 100%;
+}
+/* this is Works end */
+/* this is selling start */
+#sell #sell1{
+    width: 100%;
+}
+#sell #sell2{
+    width: 100%;
+}
+#sell #sell3{
+    width: 100%;
+}
+/* this is selling end */
+/* this is footer start */
+#footer #footer1{
+    width: 100%;
+}
+#footer #footer2{
+    width: 100%;
+}
+#footer #footer3{
+    width: 100%;
+}
+/* this is footer end */
+    
+  }

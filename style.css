@@ -1,0 +1,644 @@
+/* this is find start */
+#find{
+    width: 100%;
+    float: left;
+    background-color: #2756ae;
+}
+#find #find1{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 100px;
+}
+.discover{
+    width: 200px;
+    height: 60px;
+    background-color: #62cec5;
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+}
+.discover:hover{
+    background-color: white;
+    color: #2756ae;
+}
+.smart{
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+}
+.find{
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+/* this is find end */
+
+/* this is Properties start */
+#properties{
+    width: 100%;
+    float: left;
+}
+#properties1{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 80px;
+}
+.properties{
+    font-size: 17px;
+    font-weight: 600;
+    color: #62cec5;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.explore{
+    color: black;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+#propertiesimg{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 70px;
+}
+#propertiesimg #propertiesimg1{
+    width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    display: block;
+}
+#propertiesimg #propertiesimg2{
+    width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#propertiesimg #propertiesimg3{
+    width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#propertiesimg #propertiesimg4{
+    width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.london{
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    margin-top: 10px;
+}
+/* this is Properties end */
+
+/* this is Choose start */
+#choose{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #ecf0f5;
+}
+#choose #choose1{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.choose{
+    color: #62cec5;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.chose{
+    color: black;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+#chose{
+    width: 100%;
+    float: left;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: #ecf0f5;
+}
+#chose #chose1{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#chose #chose2{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #4c7ce3;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#chose #chose3{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#chose #chose4{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #62cec5;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.experienced{
+    font-size: 22px;
+    color: black;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.adipiscing{
+    font-size: 18px;
+    color: #4c7ce3;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.adipiscing1{
+    color: white;
+    font-weight: 600;
+    margin-top: 15px;
+    font-size: 18px;
+}
+/* this is Choose end */
+
+/* this is Properties start */
+#proper{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#proper #proper1{
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+}
+
+#appartment{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#appartment #appartment1{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#appartment #appartment2{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#appartment #appartment3{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.interior{
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+    margin-top: 20px;
+}
+.broklyn{
+    font-size: 18px;
+    color: rgb(107, 106, 106);
+    font-weight: 600;
+}
+.number1{
+    font-size: 27px;
+    font-weight: 700;
+    color: #4c7ce3;
+}
+.sqft1{
+    font-size: 18px;
+    color: rgb(107, 106, 106);
+    margin-left: 5px;
+    margin-top: 8px;
+    font-weight: 600;
+}
+.fa-bed{
+    color: #4c7ce3;
+    margin-top: 20px;
+}
+.fa-shower{
+    color: #4c7ce3;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.fa-clone{
+    color: #4c7ce3;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.number11{
+    margin-left: 7px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+/* this is Properties end */
+
+/* this is Providing start */
+#providing{
+    background-color: #2a3349;
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+#providing #providing1{
+    width: 40%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#providing #providing2{
+    width: 15%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#providing #providing3{
+    width: 15%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #4c7ce3;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#providing #providing4{
+    width: 15%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#providing #providing5{
+    width: 15%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.estate{
+    color: white;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.discover1{
+    width: 200px;
+    height: 60px;
+    background-color: #4c7ce3;
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.discover1:hover{
+    background-color: #62cec5;
+}
+.buil{
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+}
+/* this is Providing end */
+
+/* this is service start */
+#serv{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin-bottom: 80px;
+}
+#serv #serv1{
+    width: 100%;
+    float: left;
+    background-color: #69cdc6;
+}
+.img5{
+    border: 3px solid white;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+.servtext{
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+.servtext1{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 35px;
+    color: white;
+    margin-bottom: 70px;
+}
+.servtext11{
+    color: white;
+    font-size: 18px;
+}
+/* this is service end */
+
+/* this is Works start */
+#works{
+    width: 100%;
+    float: left;
+}
+#works #works1{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.work{
+    color: #62cec5;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.follow1{
+    color: black;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+#igm6{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#igm6 #igm61{
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+}
+#igm6 #igm62{
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+}
+#igm6 #igm63{
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+}
+#igm6 #igm64{
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+}
+.img66{
+    border-radius: 100%;
+    border: 2px solid rgb(172, 169, 169);
+    padding: 30px;
+    box-sizing: border-box;
+}
+.bibe1{
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bibe{
+    font-size: 19px;
+    color: gray;
+    font-weight: 500;
+}
+/* this is Works end */
+
+/* this is selling start */
+#sell{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #eff1f6;
+    margin-top: 80px;
+}
+#sell #sell1{
+    width: 33.3333333%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#sell #sell2{
+    width: 33.3333333%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#sell #sell3{
+    width: 33.3333333%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.save1{
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 0%;
+}
+.save1:hover{
+    color: #2756ae;
+}
+.fa-circle-user{
+    color: #62cec5;
+    margin-top: 25px;
+}
+.fa-comments{
+    color: #62cec5;
+    margin-top: 5px;
+}
+.admin{
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 8px;
+    font-size: 17px;
+}
+.comment{
+    font-weight: 500;
+    margin-left: 8px;
+    font-size: 17px;
+}
+/* this is selling end */
+
+/* this is footer start */
+#footer{
+    width: 100%;
+    float: left;
+    background-color: #31384c;
+    margin-bottom: 20px;
+}
+#footer #footer1{
+    width: 30%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer2{
+    width: 30%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer3{
+    width: 40%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.explo{
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.conse{
+    font-size: 19px;
+    font-weight: 600;
+    color: white
+}
+.account{
+    font-size: 18px;
+    margin-top: 8px;
+    font-weight: 600;
+    color: white;
+}
+.account:hover{
+    color: #62cec5;
+}
+.fa-phone-volume{
+    font-size: 30px;
+    margin-top: 25px;
+    color: #62cec5;
+}
+.call{
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.call1{
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    margin-left: 15px;
+}
+.input1{
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-style: none;
+    margin-bottom: 10px;
+}
+.label1{
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #4c7ce3;
+    color: white;
+    margin-bottom: 10px;
+}
+.label1:hover{
+    background-color: #62cec5;
+}
+
+#copy{
+    width: 100%;
+    background-color: white;
+}
+#copy1{
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.copy{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+/* this is footer end */
